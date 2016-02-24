@@ -1,7 +1,7 @@
 # PredictionIO docker container
 Docker container for PredictionIO-based machine learning services
 
-[![Docker build](http://dockeri.co/image/ysilvela/predictionio)](https://registry.hub.docker.com/u/ysilvela/predictionio/)
+[![Docker build](http://dockeri.co/image/ysilvela/predictionio-docker)](https://registry.hub.docker.com/r/ysilvela/predictionio-docker/)
 
 [PredictionIO](https://prediction.io) is an open-source Machine Learning
 server for developers and data scientists to build and deploy predictive
