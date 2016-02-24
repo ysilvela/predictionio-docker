@@ -27,6 +27,7 @@ ADD run.sh /run.sh
 
 ENTRYPOINT /run.sh
 ```
+Then you need to download your preferred template from https://templates.prediction.io/
 
 and run.sh:
 
