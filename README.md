@@ -11,13 +11,13 @@ This container uses Apache Spark, HBase and Elasticsearch.
 Use it interactively for development:
 
 ```Bash
-$ docker run -it -v $HOME/MyEngine:/MyEngine ysilvela/predictionio /bin/bash
+$ docker run -it -v $HOME/MyEngine:/MyEngine ysilvela/predictionio-docker /bin/bash
 ```
 
 Or create your own deployable docker container:
 
 ```Dockerfile
-FROM ysilvela/predictionio
+FROM ysilvela/predictionio-docker
 
 ADD MyEngine /MyEngine
 
