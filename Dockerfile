@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER Fabian M. Borschel <fabian.borschel@commercetools.de>
+MAINTAINER Yago Silvela <ysilvela@gmail.com>
 
 ENV PIO_VERSION 0.9.5
 ENV SPARK_VERSION 1.4.1
