@@ -10,6 +10,8 @@ applications in a fraction of the time.
 This container uses Apache Spark, HBase and Elasticsearch.
 Use it interactively for development:
 
+The next command makes the pull and build at the same time:
+
 ```Bash
 $ docker run -it -v $HOME/MyEngine:/MyEngine ysilvela/predictionio-docker /bin/bash
 ```
